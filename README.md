@@ -2,7 +2,7 @@
 
 🎓 **B.Tech ECE Final Year** @ LNMIIT Jaipur (2026)  
 📄 **IEEE Published Author** — *Compact and Energy Efficient 8-Point FFT using Booth Multiplier-based MAC Unit, IEEE Embedded Systems Letters, 2025*  
-🔭 Incoming **M.S. Student @ UNSW Sydney** (Feb 2027) — Electrical Engineering  
+🔭 Incoming **M.Sc. Student @ Trinity College Dublin** (Sep 2026) — Electronics Information Engineering
 📍 Patna, India
 
 ---
